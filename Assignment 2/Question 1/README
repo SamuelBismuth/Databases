@@ -1,0 +1,8 @@
+#This repository contains :
+
+Assignment2SQL which his the java project including the javadoc.
+The jar file you need to add to the java project.
+MyDatabaseTables, which are all the table we created to check all the queries.
+Queries, which contains the query of all the questions included the view, the two triggers and the stored procedure.
+The screenshots of the two representation of the data in the console.
+The model of the database we built.
