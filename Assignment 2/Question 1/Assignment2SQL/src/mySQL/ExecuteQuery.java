@@ -22,7 +22,7 @@ public class ExecuteQuery {
 	port 		= "3306",
 	user	 	= "root",
 	password 	= "26029823O3d",
-	ip 			= "localhost", 		//127.0.0.1
+	ip 		= "localhost", 		//127.0.0.1
 	schema 		= "my_Hospital"; 
 
 	/** The object connection from @see {@link Connection} */
