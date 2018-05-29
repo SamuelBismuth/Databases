@@ -1,0 +1,9 @@
+POST /books/book/1
+{
+  "title": "Harry Potter",
+  "Author": "JK Rollwing", 
+  "Genre": "Fantasy", 
+  "Editor": "Folio Junior", 
+  "Edite year": 2004, 
+  "Topic": "You're a wizard Harry." 
+}

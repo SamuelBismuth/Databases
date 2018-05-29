@@ -1,0 +1,12 @@
+GET /books/book/_search
+{
+  "query": {
+    "bool": {
+      "must":  { "range": {"Edite year": { "gte": 2000 } } },
+    "filter":  [
+        { "match": { "Topic": "Science Fiction" } } ,
+        { "match": { "Topic": "reality" } } ,
+        { "match":  { "Genre": "Science Fiction" } } ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+ <root>
+   <country name = "Israel">   
+     <city num= "1029"> Ariel </city>
+     <city num = "79833"> Tel Aviv </city>
+     <city num = "89222"> Jerusalem </city>
+     <city num = "53728"> Haifa </city>
+     <city num = "250"> Kokhav Hachakhar </city>
+   </country>
+   <country name = "France">   
+     <city num = "62234"> Lyon </city>
+     <city num = "7373663"> Paris </city>
+   </country>
+   <country name = "Espagne">   
+     <city num = "39430223"> Madrid </city>
+     <city num = "7373663"> Barcelone </city>
+   </country>
+ </root>
